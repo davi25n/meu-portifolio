@@ -5,3 +5,5 @@ eu preciso deixa-lo dinamico
 eu errei e deixei duas vezes primeiro commit, foi mal
 
 este arquivo é perfeitamente legivel?
+
+errei de novo a nota do commit
