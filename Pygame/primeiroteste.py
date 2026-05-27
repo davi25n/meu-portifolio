@@ -1,1 +1,1 @@
-print("helleoworld")
+import pygame
